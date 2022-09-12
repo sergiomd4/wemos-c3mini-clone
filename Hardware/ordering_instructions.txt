@@ -1,0 +1,9 @@
+pcb thickness, 0.8mm
+number of layers, 2
+soldermask color, Green
+silkscreen color, White
+finish, HASL
+oz copper, 1 oz
+stencils, top
+min trace width, 0.127mm / 5 mil
+min drill size, 0.2000mm / 0.0079 in
