@@ -1,0 +1,46 @@
+Informe de estadísticas de la placa
+=============================
+- Fecha: 12/09/2022 17:24:44
+- Proyecto: C3_mini
+- Nombre de placa: C3_mini
+
+Placa
+-----
+- Ancho: 25,4092 mm
+- Alto: 34,1771 mm
+- Área: 848,2955 mm cuadrados
+
+Pads
+----
+- Agujero pasante: 21
+- SMD: 125
+- Conector: 1
+- NPTH: 2
+
+Vías
+----
+- Vías pasantes: 74
+- Ciega/Enterrada: 0
+- Microvías: 0
+
+Componentes
+----------
+
+|        | Lado frontal | Lado trasero | Total |
+|--------|--------------|--------------|-------|
+|THT:    |           2  |           0  |    2  |
+|SMD:    |          29  |           0  |   29  |
+|Total:  |          31  |           0  |   31  |
+|        |              |              |       |
+
+Agujeros de taladros
+-----------
+
+| Cantidad |   Forma |  Tamaño X |  Tamaño Y | Revestido | Vía/Pad | Capa inicial | Capa final |
+|----------|---------|-----------|-----------|-----------|---------|--------------|------------|
+|       74 | Redondo | 0,4000 mm | 0,4000 mm |       PTH |     Vía |         F.Cu |       B.Cu |
+|       16 | Redondo | 1,0000 mm | 1,0000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        2 | Redondo | 0,6000 mm | 0,6000 mm |      NPTH |     Pad |         F.Cu |       B.Cu |
+|        2 |  Ranura | 1,7000 mm | 0,6000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        2 |  Ranura | 1,4000 mm | 0,6000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        1 | Redondo | 0,3000 mm | 0,3000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
