@@ -1,11 +1,11 @@
 C3 Mini Clone
 ========================================
 
-[![C3 Mini](https://www.wemos.cc/en/latest/_static/boards/c3_mini_v1.0.0_1_16x16.jpg)](https://www.wemos.cc/en/latest/c3/c3_mini.html)
+<img src="Resources\c3mini_front.jpg"  width=50% height=50%>
+<img src="Resources\c3mini_back.jpg"  width=50% height=50%>
 
-[![C3 Mini](https://www.wemos.cc/en/latest/_static/boards/c3_mini_v1.0.0_2_16x16.jpg)](https://www.wemos.cc/en/latest/c3/c3_mini.html)
 
-C3 Mini is a mini WiFi and Bluetooth5 (LE) board based on ESP32-C3FH4
+C3 Mini Clone is a mini WiFi and Bluetooth5 (LE) board based on ESP32-C3FH4
 
 Features
 -------------------
@@ -34,6 +34,6 @@ Technical specifications
 Repository Contents
 -------------------
 
-* **/Production** - Gerber files
+* **/Production** - Gerber files, drill files, BOM, CPL file
 * **/Hardware** - KiCad PCB files
-
+* **/Documents** - Schematics pdf, datasheet
