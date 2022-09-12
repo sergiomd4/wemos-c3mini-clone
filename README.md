@@ -37,3 +37,5 @@ Repository Contents
 * **/Production** - Gerber files, drill files, BOM, CPL file
 * **/Hardware** - KiCad PCB files
 * **/Documents** - Schematics pdf, datasheet
+
+The switch footprint is in the library inside the Hardware folder.
